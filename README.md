@@ -1,3 +1,3 @@
 # 3VC23CS068
 THIS IS FIRST REPOSITORY
-I EDITED THIS
+author - manik gupta
